@@ -25,31 +25,34 @@ Note:
 
 ## Group members
 
-[delete this line and enter your names here]
+Ethan Castelazo, Zelda Reif, Alex Gonzales
 
 ## Group name (optional):
 
-[delete this line and enter your group name here; if you don't have one, delete the whole section]
+Abundant Birds
 
 ## Topic information and question
 
 **Topic:**  
 
-[delete this line and enter your topic here]
+Overall variation in bird species abundance by season based on water elevation, and variation in species abundance by season between taxanomic groups.
 
 **Question(s):**  
 
-[delete this line and enter your bullet point list here]
+- How does water elevation effect bird species abundance?
+- How do effects vary across season?
+- How do results vary between taxanomic groups?
 
 **Response variable(s)**
 
-[delete this line and enter your bullet point list here]
+- species abundance
 
 ## Datasets
 
 **Datasets used:**
 
-[delete this line and enter your bullet point list here]
+- birds
+- venoco_water
 
 ## Figures
 
@@ -77,22 +80,22 @@ Note:
 
 **Natural history/framing director:**
 
-[delete this line and enter your own text here]
+Zelda
 
 **Stats and visualization director**
 
-[delete this line and enter your own text here]
+Alex
 
 **GitHub/code director**
 
-[delete this line and enter your own text here]
+Ethan
 
 
 ## Elective (not required for all groups or group members)
 
 **Group members completing elective:**
 
-[delete this line and enter your own text here]
+Ethan, Zelda, Alex
 
 **Elective idea:**
 
@@ -100,7 +103,7 @@ Note:
 
 **Elective timeline (what you will have completed each week):**
 
-Week 7: enter your own text here
+Week 7: Full project proposal
 
 Week 8 (timeline check in): enter your own text here
 
