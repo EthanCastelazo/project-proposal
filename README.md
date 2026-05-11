@@ -99,19 +99,19 @@ Ethan, Zelda, Alex
 
 **Elective idea:**
 
-[delete this line and enter your own text here]
+Making an informational bird watching bird watching guide pamphlet for NCOS visitors that details what birds are most likely to be seen during each season
 
 **Elective timeline (what you will have completed each week):**
 
 Week 7: Full project proposal
 
-Week 8 (timeline check in): enter your own text here
+Week 8 (timeline check in): Background write up of historical bird species profile of NCOS
 
-Week 9: enter your own text here
+Week 9: Layout design of pamphlet, with spaces designated for figures, illustrations, and background.
 
-Week 10: enter your own text here
+Week 10: illustrations completed
 
-Finals week: enter your own text here
+Finals week: Final pamphlet completed with illustrations and information on bird species abundance by season.
 
 
 
