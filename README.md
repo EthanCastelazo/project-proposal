@@ -74,7 +74,11 @@ Overall variation in bird species abundance by season based on water elevation, 
 
 ## Data cleaning/wrangling/summarizing plan
 
-[delete this line and enter your own text here]
+- Read in venoco-water data and birds_csv
+- Mutate each data set to create a shared column by date
+- Join these two data sets by date
+
+
 
 ## Project roles
 
