@@ -35,18 +35,24 @@ Abundant Birds
 
 **Topic:**
 
-Overall variation in bird species abundance by season based on water elevation, and variation in species abundance by season between taxanomic groups.
+Overall variation in bird species abundance by season based on water elevation, and variation in species abundance by season between taxonomic groups.
 
 **Question(s):**
 
--   How does water elevation effect bird species abundance?
--   How do effects vary across season?
--   How do results vary between taxanomic groups?
+- How does water elevation effect bird species abundance within the Waterfowl and Shorebird
+taxonomic groups?
+- How do effects of water elevation on the species abundance of Waterfowl and Shorebird
+taxonomic groups vary across seasons?
+- How do species abundance results vary within the Shorebird taxonomic group across water years?
+
+Focusing on Shorebirds because it is the largest taxonomic group with highest species abundance. Ecological significance in coastal wetland ecosystems.
+
+Comparing to Waterfowl due to the  similar size (number of species) of the taxon group but with less of an ecological niche than Shorebirds.
 
 **Response variable(s)**
 
--   species abundance
--   taxonomic abundance
+-   species abundance (Shorebirds)
+-   compared species abundance between taxonomic groups (Waterfowl and Shorebirds)
 
 ## Datasets
 
