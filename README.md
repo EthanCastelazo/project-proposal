@@ -81,7 +81,11 @@ Comparing to Waterfowl due to the  similar size (number of species) of the taxon
 -   Read in venoco-water data and birds_csv
 -   Mutate each data set to create a shared column by date
 -   Join these two data sets by date, left join into birds due to a smaller amount of dates available in the data set (exclude unnecessary data in water data)
--   group by taxonomic 
+-   group by e_bird_group (taxon) and filter to only include Shorebirds and Waterfowl
+-   For figure that compares taxons, show compare by season through facet_wrap
+- For figure that includes only Shorebird species, mutate a column to create a water year,
+then compare species abundance effects by water year using facet_wrap
+
 
 ## Project roles
 
