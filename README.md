@@ -74,8 +74,8 @@ Overall variation in bird species abundance by season based on water elevation, 
 
 -   Read in venoco-water data and birds_csv
 -   Mutate each data set to create a shared column by date
--   Join these two data sets by date
--   
+-   Join these two data sets by date, left join into birds due to a smaller amount of dates available in the data set (exclude unnecessary data in water data)
+-   group by taxonomic 
 
 ## Project roles
 
