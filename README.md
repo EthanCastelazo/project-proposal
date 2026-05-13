@@ -65,15 +65,15 @@ Comparing to Waterfowl due to the  similar size (number of species) of the taxon
 
 **Potential figure 1:**
 
-[ViewPDF](Potential%20Figure%201.pdf) 
+[ViewPDF](https://github.com/EthanCastelazo/project-proposal/blob/9f9f99e2ffd578247805febce461894d85dbb0df/Potential%20Figure%20pdfs/Potential%20Figure%201.pdf) 
 
 **Potential figure 2:**
 
-[ViewPDF](Potential%20Figure%202.pdf)
+[ViewPDF](https://github.com/EthanCastelazo/project-proposal/blob/9f9f99e2ffd578247805febce461894d85dbb0df/Potential%20Figure%20pdfs/Potential%20Figure%202.pdf)
 
 **Potential figure 3:**
 
-[ViewPDF](Potential%20Figure%203.pdf)
+[ViewPDF](https://github.com/EthanCastelazo/project-proposal/blob/9f9f99e2ffd578247805febce461894d85dbb0df/Potential%20Figure%20pdfs/Potential%20Figure%203.pdf)
 
 
 ## Data cleaning/wrangling/summarizing plan
