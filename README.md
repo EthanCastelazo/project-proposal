@@ -46,6 +46,7 @@ Overall variation in bird species abundance by season based on water elevation, 
 **Response variable(s)**
 
 -   species abundance
+-   taxonomic abundance
 
 ## Datasets
 
@@ -74,6 +75,7 @@ Overall variation in bird species abundance by season based on water elevation, 
 -   Read in venoco-water data and birds_csv
 -   Mutate each data set to create a shared column by date
 -   Join these two data sets by date
+-   
 
 ## Project roles
 
