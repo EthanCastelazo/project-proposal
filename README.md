@@ -58,7 +58,7 @@ Overall variation in bird species abundance by season based on water elevation, 
 
 **Potential figure 1:**
 
-[ViewPDF](Potential%20Figure%201.pdf) [here](https://github.com/EthanCastelazo/project-proposal/blob/main/Potential%20Figure%201.pdf)
+[ViewPDF](Potential%20Figure%201.pdf) 
 
 **Potential figure 2:**
 
@@ -68,9 +68,6 @@ Overall variation in bird species abundance by season based on water elevation, 
 
 [ViewPDF](Potential%20Figure%203.pdf)
 
-**Potential figure 4**
-
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
 
 ## Data cleaning/wrangling/summarizing plan
 
