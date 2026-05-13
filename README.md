@@ -58,15 +58,15 @@ Overall variation in bird species abundance by season based on water elevation, 
 
 **Potential figure 1:**
 
-[delete this line and enter your figure here]
+[View](Potential Figure 1.pdf)
 
 **Potential figure 2:**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+[View](Potential Figure 2.pdf)
 
 **Potential figure 3:**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+[View](Potential Figure 3)
 
 **Potential figure 4**
 
